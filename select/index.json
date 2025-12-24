@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "天王寺に住んでる女の子",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-24T13:32:09.362673Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天王寺に住んでる女の子",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": true,
+      "path": "select/01_天王寺に住んでる女の子_ヤバイTシャツ屋さん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天王寺に住んでる女の子",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_天王寺に住んでる女の子_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "天王寺に住んでる女の子",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_天王寺に住んでる女の子_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "天王寺に住んでる女の子",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_天王寺に住んでる女の子_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
